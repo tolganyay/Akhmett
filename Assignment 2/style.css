@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+}
+.pp{
+    text-align: center;
+}
+.AstanaIT{
+  width: 600px;
+    height: 400px;
+    position: relative;
+}
+.University{
+    padding: 20px;
+}
+.info{
+    padding: 20px;
+}
+.flex{
+    padding: 20px;
+    display: flex;
+}
+.nav-link{
+    font-size: 20px;
+}
+.gg{
+    text-indent: 20px;
+}
+.Bording{
+    word-spacing: 15px;
+}
+form {
+    margin-top: 30px;
+}
+form label {
+    display: block;
+    margin-bottom: 10px;
+}
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+form textarea{
+    height: 100px;
+}
+form input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+form input[type="submit"]:hover {
+    background-color: #3e8e41;
+    margin: 100%;
+}
+.border{
+    border:2px solid black;
+}
